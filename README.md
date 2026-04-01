@@ -275,16 +275,3 @@ Do not commit:
 
 Place checkpoints locally and pass them through `--checkpoint_path`.
 
-## Citation
-
-If you use this codebase, you can cite the original paper:
-
-```bibtex
-@inproceedings{luo2024efficient,
-  title={Efficient Meshflow and Optical Flow Estimation from Event Cameras},
-  author={Luo, Xinglong and Luo, Ao and Wang, Zhengning and Lin, Chunyu and Zeng, Bing and Liu, Shuaicheng},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={19198--19207},
-  year={2024}
-}
-```
